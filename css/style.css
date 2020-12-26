@@ -5,6 +5,7 @@ body {
 }
 a{
     text-decoration: none;
+    cursor:pointer;
 }
 header {
   width: 100%;
@@ -28,4 +29,19 @@ header nav .nav-right-section {
 nav .nav-right-section a {
     margin-right: 10px;
     color:black;
+}
+
+nav .nav-right-section .menu-icon{
+    background-image: url('https://static.thenounproject.com/png/756729-200.png');
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+
+}
+nav .nav-right-section img{
+    border-radius: 50px;
+    margin-left: 10px;
+    
 }
