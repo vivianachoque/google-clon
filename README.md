@@ -1,4 +1,6 @@
 # google-clon
 Clon de la página de google para repasar HTML y CSS
 
-Utilizo flexbox y Grid
+Utilicé flexbox y Grid
+
+Link del proyecto: https://google-clon.netlify.app/
