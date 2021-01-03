@@ -71,7 +71,7 @@ main .main-input-container {
   border: 1px solid #dfe1e5;
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
 }
 main .main-input input {
   width: 450px;
